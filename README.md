@@ -15,5 +15,8 @@ Se modificó el orden de las canciones del Top 10 para mostrarlas en forma desce
 <p align="center">
   <img src="./TopMusical/img/prueba.png" alt="Captura del Top 10" width="800"/>
 </p>
-Evidencia rama `artista`
-![Vista con artista primero](capturas/artista.png)
+## Rama: orden (Integrante 2)
+Se modificó el orden de artista y posteriormente titulo.
+<p align="center">
+  <img src="./capturas/artista.png" alt="Artista" width="800"/>
+</p>
