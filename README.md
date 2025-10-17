@@ -3,4 +3,6 @@
 
 ## Rama: orden (Integrante 2)
 Se modificó el orden de las canciones del Top 10 para mostrarlas en forma descendente.
-![Descripción de la imagen](img/Funcionamiento_ordenDescendente_integrante2_.PNG)
+<p align="center">
+  <img src="img/captura.png" alt="Captura del Top 10" width="400"/>
+</p>
